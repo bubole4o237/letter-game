@@ -1,0 +1,17 @@
+ul li {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid orange;
+    border-radius: 10px;
+}
+
+ul li:hover {
+    color: #fff;
+    background-color: orange;
+    /* background-color: hotpink; */
+}
+
+a {
+    font-weight: bold;
+}
